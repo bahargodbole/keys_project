@@ -1,4 +1,5 @@
 ﻿using Keys_Onboarding.Global;
+using Keys_Onboarding.Pages;
 using NUnit.Framework;
 using System;
 using System.Collections.Generic;
@@ -24,6 +25,16 @@ namespace Keys_Onboarding.Test
                 // Create an class and object to call the method
                 PropertyOwner obj = new PropertyOwner();
                 obj.SearchAProperty();
+
+            }
+
+            [Test]
+            public void Tenant_SendRequestToOwner()
+            {
+                test = extent.StartTest("Add Tenant Request");
+
+                MyTenant obj = new MyTenant();
+                obj.tenantMyRentals();
 
             }
 

@@ -13,5 +13,5 @@ Unhandled Exception: System.NotSupportedException: An attempt was made to load a
 
 
 Command: C:\Users\Bahar\AppData\Local\Microsoft\VisualStudio\15.0_33450542\Extensions\olkhny3t.zqb\TechTalk.SpecFlow.VisualStudio.CodeBehindGenerator.exe
-Parameters: GenerateTestFile --featurefile C:\Users\Bahar\AppData\Local\Temp\tmp3A9E.tmp --outputdirectory C:\Users\Bahar\AppData\Local\Temp --projectsettingsfile C:\Users\Bahar\AppData\Local\Temp\tmp3A4F.tmp
+Parameters: GenerateTestFile --featurefile C:\Users\Bahar\AppData\Local\Temp\tmpC595.tmp --outputdirectory C:\Users\Bahar\AppData\Local\Temp --projectsettingsfile C:\Users\Bahar\AppData\Local\Temp\tmpC594.tmp
 Working Directory: C:\Users\Bahar\Desktop\IndustryConnect_Documents\BaharAssignments\Internship\Blazers\automationOnboardingSample-master\automationOnboardingSample-master\packages\SpecFlow.2.3.1\tools
